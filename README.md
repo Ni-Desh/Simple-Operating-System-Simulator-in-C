@@ -1,1 +1,2 @@
 # Simple-Operating-System-Simulator-in-C
+This C project simulates a basic Operating System with features like job scheduling, paging-based memory management, instruction execution, and error handling. It processes input files with job instructions, manages memory via a simulated page table, and handles basic operations like load, store, compare, and halt. Errors such as time/line limit exceeded or opcode faults are also detected and reported
